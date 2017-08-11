@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "deflate.c": "cpp",
+        "gzio.c": "cpp",
+        "inffast.c": "cpp",
+        "trees.c": "cpp"
+    }
+}
